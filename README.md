@@ -18,3 +18,10 @@ dependencies {
 
 ### font폴더 추가
 - res 우클릭 - New - Directory - font 입력
+
+### 위에 Title Bar 제거
+- app -> res -> values -> styles.xml파일을 들어가기 -> 아래 code 추가
+```
+<item name="windowActionBar">false</item>
+<item name="windowNoTitle">true</item>
+```
