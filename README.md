@@ -15,3 +15,6 @@ dependencies {
 }
 ```
 - sync 를 눌러줘서 동기화 실행 하면 정상적으로 
+
+### font폴더 추가
+- res 우클릭 - New - Directory - font 입력
