@@ -1,8 +1,17 @@
 # mobile_app_programming_team3
 mobile app programming team3 project
 - 모듈 gradle 들어가기
-- plugins 에서 아래 코드 추가 
+- 아래 해당 코드 추가
 ```
-id 'kotlin-android-extensions'
+plugins {
+    id 'kotlin-android-extensions'
+}
+```
+
+
+```
+dependencies {
+	implementation "androidx.viewpager2:viewpager2:1.0.0"
+}
 ```
 - sync 를 눌러줘서 동기화 실행 하면 정상적으로 
