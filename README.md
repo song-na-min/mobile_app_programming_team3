@@ -1,5 +1,5 @@
 # mobile_app_programming_team3
-mobile app programming team3 project
+## mobile app programming team3 project
 - 모듈 gradle 들어가기
 - 아래 해당 코드 추가
 ```
