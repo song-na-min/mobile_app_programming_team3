@@ -1,5 +1,8 @@
 # mobile_app_programming_team3
 ## mobile app programming team3 project
+### Figma Project App Prototyping Tool
+- https://www.figma.com/file/0QBnaupiFsWH3vWGz2UXpu/Mobile-App-Project?node-id=0%3A1
+### grandle 추가사항
 - 모듈 gradle 들어가기
 - 아래 해당 코드 추가
 ```
